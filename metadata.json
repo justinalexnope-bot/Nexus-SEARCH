@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Search",
+  "description": "A modern, AI-powered search engine frontend built with React and Tailwind CSS, featuring an architecture with a Python crawler, an Elasticsearch indexer, and a FastAPI backend.",
+  "requestFramePermissions": []
+}
